@@ -78,9 +78,7 @@ As Peter Drahos and John Braithwaite relate, this is precisely the choice we are
 
 When this battle broke, I blogged it. A spirited debate within the comment section ensued. Ms. Boland had a number of supporters who tried to show why her comments made sense. But there was one comment that was particularly depressing for me. An anonymous poster wrote,
 
-```
-George, you misunderstand Lessig: He's only talking about the world as it should be ("the goal of WIPO, and the goal of any government, should be to promote the right balance of intellectualproperty rights, not simply to promote intellectual property rights"), not as it is. If we were talking about the world as it is, then of course Boland didn't say anything wrong. But in the world as Lessig would have it, then of course she did. Always pay attention to the distinction between Lessig's world and ours.
-```
+> George, you misunderstand Lessig: He's only talking about the world as it should be ("the goal of WIPO, and the goal of any government, should be to promote the right balance of intellectualproperty rights, not simply to promote intellectual property rights"), not as it is. If we were talking about the world as it is, then of course Boland didn't say anything wrong. But in the world as Lessig would have it, then of course she did. Always pay attention to the distinction between Lessig's world and ours.
 
 I missed the irony the first time I read it. I read it quickly and thought the poster was supporting the idea that seeking balance was what our government should be doing. (Of course, my criticism of Ms. Boland was not about whether she was seeking balance or not; my criticism was that her comments betrayed a first-year law student's mistake. I have no illusion about the extremism of our government, whether Republican or Democrat. My only illusion apparently is about whether our government should speak the truth or not.)
 

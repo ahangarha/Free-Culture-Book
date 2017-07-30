@@ -41,9 +41,7 @@ Yet zero tolerance is increasingly our government's policy. In the middle of the
 I'm not talking about the opportunities for kids to "steal" music. My focus instead is the commercial and cultural innovation that this war will also kill. We have never seen the power to innovate spread so broadly among our citizens, and we have just begun to see the innovation that this power will unleash. Yet the Internet has already seen the passing of one cycle of innovation around technologies to distribute content. The law is responsible for this passing. As the vice president for global public policy at one of these new innovators, eMusic.com, put it when criticizing the DMCA's added protection for copyrighted material,
 
 > eMusic opposes music piracy. We are a distributor of copyrighted material, and we want to protect those rights.
-
 > But building a technology fortress that locks in the clout of the major labels is by no means the only way to protect copyright interests, nor is it necessarily the best. It is simply too early to answer that question. Market forces operating naturally may very well produce a totally different industry model.
-
 > This is a critical point. The choices that industry sectors make with respect to these systems will in many ways directly shape the market for digital media and the manner in which digital media are distributed. This in turn will directly influence the options that are available to consumers, both in terms of the ease with which they will be able to access digital media and the equipment that they will require to do so. Poor choices made this early in the game will retard the growth of this market, hurting everyone's interests.[3]
 
 In April 2001, eMusic.com was purchased by Vivendi Universal, one of "the major labels." Its position on these matters has now changed.

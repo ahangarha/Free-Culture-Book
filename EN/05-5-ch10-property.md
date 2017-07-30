@@ -540,7 +540,7 @@ At the start of this book, I distinguished between commercial and noncommercial 
 
 _Table 5-1._
 
--             | PUBLISH | TRANSFORM
+/             | PUBLISH | TRANSFORM
 ------------- | ------- | ---------
 Commercial    | ©       | Free
 Noncommercial | Free    | Free
@@ -551,7 +551,7 @@ By the end of the nineteenth century, the law had changed to this:
 
 _Table 5-2._
 
--             | PUBLISH | TRANSFORM
+/             | PUBLISH | TRANSFORM
 ------------- | ------- | ---------
 Commercial    | ©       | ©
 Noncommercial | Free    | Free
@@ -562,7 +562,7 @@ In 1909 the law changed to regulate copies, not publishing, and after this chang
 
 _Table 5-3._
 
--             | COPY   | TRANSFORM
+/             | COPY   | TRANSFORM
 ------------- | ------ | ---------
 Commercial    | ©      | ©
 Noncommercial | ©/Free | Free
@@ -571,7 +571,7 @@ The law was interpreted to reach noncommercial copying through, say, copy machin
 
 _Table 5-4._
 
--             | COPY | TRANSFORM
+/             | COPY | TRANSFORM
 ------------- | ---- | ---------
 Commercial    | ©    | ©
 Noncommercial | ©    | ©

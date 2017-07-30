@@ -257,7 +257,6 @@ The second came from the Chief, for whom the whole case had been crafted. For th
 It was clear a second into his question that he wasn't at all sympathetic. To him, we were a bunch of anarchists. As he asked:
 
 > chief justice: Well, but you want more than that. You want the right to copy verbatim other people's books, don't you?
-
 > mr. lessig: We want the right to copy verbatim works that should be in the public domain and would be in the public domain but for a statute that cannot be justified under ordinary First Amendment analysis or under a proper reading of the limits built into the Copyright Clause.
 
 Things went better for us when the government gave its argument; for now the Court picked up on the core of our claim. As Justice Scalia asked Solicitor General Olson,
