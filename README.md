@@ -21,11 +21,11 @@ Similare the the book, this project is copyrighted under CC BY-NC.
 
 ### EN
 
+- [x] Make navigation in all pages (Prev, Table of Content, Next)
 - [ ] Make footnotes cross-reference
-- [*] Make navigation in all pages (Prev, Table of Content, Next)
 
 ### FA
 
-- [ ] Start translation
+- [x] Start translation
+- [x] Make pages RTL (add `<div dir="rtl">`) on top
 - [ ] Redesign cover for Persian
-- [ ] Make pages RTL (add `<div dir="rtl">`) on top
