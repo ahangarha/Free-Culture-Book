@@ -22,10 +22,10 @@ Similare the the book, this project is copyrighted under CC BY-NC.
 ### EN
 
 - [ ] Make footnotes cross-reference
-- [ ] Make navigation in all pages (Prev, TOC, Next)
+- [*] Make navigation in all pages (Prev, Table of Content, Next)
 
 ### FA
 
 - [ ] Start translation
 - [ ] Redesign cover for Persian
-- [ ] Make pages RTL (add `<div style="rtl">`) on top
+- [ ] Make pages RTL (add `<div dir="rtl">`) on top
