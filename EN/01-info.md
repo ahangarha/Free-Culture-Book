@@ -21,4 +21,4 @@ Figure 1-1\. _Creative Commons, Some rights reserved_
 
 --------------------------------------------------------------------------------
 
-[Prev](./00-toc.md) | [Table of Contents](./00-toc.md) | [Next](./02-preface.md)
+Prev | [Table of Contents](./00-toc.md) | [Next](./02-preface.md)
