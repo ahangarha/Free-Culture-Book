@@ -31,3 +31,7 @@ Instead, the free culture that I defend in this book is a balance between anarch
 [2] Richard M. Stallman, Free Software, Free Societies 57 ( Joshua Gay, ed. 2002).
 
 [3] William Safire, "The Great Media Gulp," New York Times, 22 May 2003.
+
+--------------------------------------------------------------------------------
+
+[Prev](./01-info.md) | [Table of Contents](./00-toc.md) | [Next](./03-introduction.md)

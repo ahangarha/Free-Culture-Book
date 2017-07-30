@@ -16,5 +16,9 @@ THE PENGUIN PRESS a member of Penguin Group (USA) Inc. 375 Hudson Street New Yor
 
 To Eric Eldred--whose work first drew me to this cause, and for whom it continues still.
 
-![](../assets/webcc.gif)<br>
+![](../assets/webcc.gif)  
 Figure 1-1\. _Creative Commons, Some rights reserved_
+
+--------------------------------------------------------------------------------
+
+[Prev](./00-toc.md) | [Table of Contents](./00-toc.md) | [Next](./02-preface.md)

@@ -75,3 +75,7 @@ This privilege becomes reserved for two sorts of reasons. The first continues th
 [1] Technically, the rights that Alben had to clear were mainly those of publicity--rights an artist has to control the commercial exploitation of his image. But these rights, too, burden "Rip, Mix, Burn" creativity, as this chapter evinces.
 
 [2] U.S. Department of Commerce Office of Acquisition Management, Seven Steps to Performance-Based Services Acquisition, available at link #22.
+
+--------------------------------------------------------------------------------
+
+[Prev](./05-2-ch07-recorders.md) | [Table of Contents](./00-toc.md) | [Next](./05-4-ch09-collectors.md)

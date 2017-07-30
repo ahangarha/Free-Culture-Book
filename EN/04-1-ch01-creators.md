@@ -1,4 +1,4 @@
-## 4.1\. CHAPTER ONE: Creators
+# 4.1\. CHAPTER ONE: Creators
 
 In 1928, a cartoon character was born. An early Mickey Mouse made his debut in May of that year, in a silent flop called Plane Crazy. In November, in New York City's Colony Theater, in the first widely distributed cartoon synchronized with sound, Steamboat Willie brought to life the character that would become Mickey Mouse.
 
@@ -80,7 +80,7 @@ The hard question is therefore not whether a culture is free. All cultures are f
 
 Free cultures are cultures that leave a great deal open for others to build upon; unfree, or permission, cultures leave much less. Ours was a free culture. It is becoming much less so.
 
-## Notes
+# Notes
 
 [1] Leonard Maltin, Of Mice and Magic: A History of American Animated Cartoons (New York: Penguin Books, 1987), 34­35.
 
@@ -95,3 +95,7 @@ Free cultures are cultures that leave a great deal open for others to build upon
 [6] See Salil K. Mehra, "Copyright and Comics in Japan: Does Law Explain Why All the Comics My Kid Watches Are Japanese Imports?" Rutgers Law Review 55 (2002): 155, 182\. "[T]here might be a collective economic rationality that would lead manga and anime artists to forgo bringing legal actions for infringement. One hypothesis is that all manga artists may be better off collectively if they set aside their individual self-interest and decide not to press their legal rights. This is essentially a prisoner's dilemma solved."
 
 [7] The term intellectual property is of relatively recent origin. See Siva Vaidhyanathan, Copyrights and Copywrongs, 11 (New York: New York University Press, 2001). See also Lawrence Lessig, The Future of Ideas (New York: Random House, 2001), 293 n. 26\. The term accurately describes a set of "property" rights--copyright, patents, trademark, and trade-secret--but the nature of those rights is very different.
+
+--------------------------------------------------------------------------------
+
+[Prev](./04-0-piracy.md) | [Table of Contents](./00-toc.md) | [Next](./04-2-ch02-mere-copyists.md)

@@ -127,3 +127,7 @@ These separate stories sing a common theme. If "piracy" means using value from s
 [18] Copyright Law Revision--CATV, 216 (statement of Edwin M. Zimmerman, acting assistant attorney general).
 
 [19] See, for example, National Music Publisher's Association, The Engine of Free Expression: Copyright on the Internet--The Myth of Free Information, available at link #13\. "The threat of piracy--the use of someone else's creative work without permission or compensation--has grown with the Internet."
+
+--------------------------------------------------------------------------------
+
+[Prev](./04-3-ch03-catalogs.md) | [Table of Contents](./00-toc.md) | [Next](./04-5-ch05-piracy.md)

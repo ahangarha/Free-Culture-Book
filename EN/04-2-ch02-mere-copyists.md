@@ -183,3 +183,7 @@ We're building a technology that takes the magic of Kodak, mixes moving images a
 [21] See Michael Falcone, "Does an Editor's Pencil Ruin a Web Log?" New York Times, 29 September 2003, C4\. ("Not all news organizations have been as accepting of employees who blog. Kevin Sites, a CNN correspondent in Iraq who started a blog about his reporting of the war on March 9, stopped posting 12 days later at his bosses' request. Last year Steve Olafson, a Houston Chronicle reporter, was fired for keeping a personal Web log, published under a pseudonym, that dealt with some of the issues and people he was covering.")
 
 [22] See, for example, Edward Felten and Andrew Appel, "Technological Access Control Interferes with Noninfringing Scholarship," Communications of the Association for Computer Machinery 43 (2000): 9.
+
+--------------------------------------------------------------------------------
+
+[Prev](./04-1-ch01-creators.md) | [Table of Contents](./00-toc.md) | [Next](./04-3-ch03-catalogs.md)

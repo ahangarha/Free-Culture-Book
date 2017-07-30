@@ -39,3 +39,7 @@ These burdens make no sense in our tradition. We should begin by understanding t
 [3] Lisa Bannon, "The Birds May Sing, but Campers Can't Unless They Pay Up," Wall Street Journal, 21 August 1996, available at link #3; Jonathan Zittrain, "Calling Off the Copyright War: In Battle of Property vs. Free Speech, No One Wins," Boston Globe, 24 November 2002.
 
 [4] In The Rise of the Creative Class (New York: Basic Books, 2002), Richard Florida documents a shift in the nature of labor toward a labor of creativity. His work, however, doesn't directly address the legal conditions under which that creativity is enabled or stifled. I certainly agree with him about the importance and significance of this change, but I also believe the conditions under which it will be enabled are much more tenuous.
+
+--------------------------------------------------------------------------------
+
+[Prev](./03-introduction.md) | [Table of Contents](./00-toc.md) | [Next](./04-1-ch01-creators.md)

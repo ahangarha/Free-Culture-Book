@@ -77,3 +77,7 @@ All this seems to follow easily from this untroubled acceptance of the "property
 ## Notes
 
 [1] Until the 1908 Berlin Act of the Berne Convention, national copyright legislation sometimes made protection depend upon compliance with formalities such as registration, deposit, and affixation of notice of the author's claim of copyright. However, starting with the 1908 act, every text of the Convention has provided that "the enjoyment and the exercise" of rights guaranteed by the Convention "shall not be subject to any formality." The prohibition against formalities is presently embodied in Article 5(2) of the Paris Text of the Berne Convention. Many countries continue to impose some form of deposit or registration requirement, albeit not as a condition of copyright. French law, for example, requires the deposit of copies of works in national repositories, principally the National Museum. Copies of books published in the United Kingdom must be deposited in the British Library. The German Copyright Act provides for a Registrar of Authors where the author's true name can be filed in the case of anonymous or pseudonymous works. Paul Goldstein, International Intellectual Property Law, Cases and Materials (New York: Foundation Press, 2001), 153­54.
+
+--------------------------------------------------------------------------------
+
+[Prev](./07-1-ch13-eldred.md) | [Table of Contents](./00-toc.md) | [Next](./08-conclusion.md)

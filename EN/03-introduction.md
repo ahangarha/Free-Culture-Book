@@ -129,3 +129,7 @@ We allow this, I believe, not because it is right, and not because most of us re
 [10] Amy Harmon, "Black Hawk Download: Moving Beyond Music, Pirates Use New Tools to Turn the Net into an Illicit Video Club," New York Times, 17 January 2002.
 
 [11] Neil W. Netanel, "Copyright and a Democratic Civil Society," Yale Law Journal 106 (1996): 283.
+
+--------------------------------------------------------------------------------
+
+[Prev](./02-preface.md) | [Table of Contents](./00-toc.md) | [Next](./04-0-piracy.md)

@@ -13,3 +13,7 @@ Somehow we have to find a way to turn attention to this more important and funda
 We have not found that way yet. Instead, we seem trapped in a simpler, binary view. However much many people push to frame this debate more broadly, it is the simple, binary view that remains. We rubberneck to look at the fire when we should be keeping our eyes on the road.
 
 This challenge has been my life these last few years. It has also been my failure. In the two chapters that follow, I describe one small brace of efforts, so far failed, to find a way to refocus this debate. We must understand these failures if we're to understand what success will require.
+
+--------------------------------------------------------------------------------
+
+[Prev](./06-2-ch12-harms.md) | [Table of Contents](./00-toc.md) | [Next](./07-1-ch13-eldred.md)

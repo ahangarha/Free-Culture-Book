@@ -17,3 +17,7 @@ My strategy in doing this will be the same as my strategy in the preceding part.
 [1] Letter from Thomas Jefferson to Isaac McPherson (13 August 1813) in The Writings of Thomas Jefferson, vol. 6 (Andrew A. Lipscomb and Albert Ellery Bergh, eds., 1903), 330, 333­34.
 
 [2] As the legal realists taught American law, all property rights are intangible. A property right is simply a right that an individual has against the world to do or not do certain things that may or may not attach to a physical object. The right itself is intangible, even if the object to which it is (metaphorically) attached is tangible. See Adam Mossoff, "What Is Property? Putting the Pieces Back Together," Arizona Law Review 45 (2003): 373, 429 n. 241.
+
+--------------------------------------------------------------------------------
+
+[Prev](./04-5-ch05-piracy.md) | [Table of Contents](./00-toc.md) | [Next](./05-1-ch06-founders.md)

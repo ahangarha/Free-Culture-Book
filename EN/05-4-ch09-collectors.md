@@ -67,3 +67,7 @@ Technologists have thus removed the economic costs of building such an archive. 
 [2] Doug Herrick, "Toward a National Film Collection: Motion Pictures at the Library of Congress," Film Library Quarterly 13 nos. 2­3 (1980): 5; Anthony Slide, Nitrate Won't Wait: A History of Film Preservation in the United States ( Jefferson, N.C.: McFarland & Co., 1992), 36.
 
 [3] Dave Barns, "Fledgling Career in Antique Books: Woodstock Landlord, Bar Owner Starts a New Chapter by Adopting Business," Chicago Tribune, 5 September 1997, at Metro Lake 1L. Of books published between 1927 and 1946, only 2.2 percent were in print in 2002\. R. Anthony Reese, "The First Sale Doctrine in the Era of Digital Networks," Boston College Law Review 44 (2003): 593 n. 51.
+
+--------------------------------------------------------------------------------
+
+[Prev](./05-3-ch08-transformers.md) | [Table of Contents](./00-toc.md) | [Next](./05-5-ch10-property.md)

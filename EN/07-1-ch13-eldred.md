@@ -256,7 +256,7 @@ The second came from the Chief, for whom the whole case had been crafted. For th
 
 It was clear a second into his question that he wasn't at all sympathetic. To him, we were a bunch of anarchists. As he asked:
 
-> chief justice: Well, but you want more than that. You want the right to copy verbatim other people's books, don't you?   
+> chief justice: Well, but you want more than that. You want the right to copy verbatim other people's books, don't you?
 
 > mr. lessig: We want the right to copy verbatim works that should be in the public domain and would be in the public domain but for a statute that cannot be justified under ordinary First Amendment analysis or under a proper reading of the limits built into the Copyright Clause.
 
@@ -355,3 +355,7 @@ _Tom the Dancing Bug cartoon_
 [14] Brief of Amici Dr. Seuss Enterprise et al., Eldred v. Ashcroft, 537 U.S. (2003) (No. 01-618), 19.
 
 [15] Dinitia Smith, "Immortal Words, Immortal Royalties? Even Mickey Mouse Joins the Fray," New York Times, 28 March 1998, B7.
+
+--------------------------------------------------------------------------------
+
+[Prev](./07-0-balances.md) | [Table of Contents](./00-toc.md) | [Next](./07-2-ch14-eldred-ii.md)

@@ -49,3 +49,7 @@ Jesse's parents betray a certain pride in their reluctant activist. As his fathe
 [2] Occupational Employment Survey, U.S. Dept. of Labor (2001) (27­2042--Musicians and Singers). See also National Endowment for the Arts, More Than One in a Blue Moon (2000).
 
 [3] Douglas Lichtman makes a related point in "KaZaA and Punishment," Wall Street Journal, 10 September 2003, A24.
+
+--------------------------------------------------------------------------------
+
+[Prev](./04-2-ch02-mere-copyists.md) | [Table of Contents](./00-toc.md) | [Next](./04-4-ch04-pirates.md)

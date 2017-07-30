@@ -1,4 +1,4 @@
-## 5.1\. CHAPTER SIX: Founders
+# 5.1\. CHAPTER SIX: Founders
 
 William Shakespeare wrote Romeo and Juliet in 1595\. The play was first published in 1597\. It was the eleventh major play that Shakespeare had written. He would continue to write plays through 1613, and the plays that he wrote have continued to define Anglo-American culture ever since. So deeply have the works of a sixteenth-century writer seeped into our culture that we often don't even recognize their source. I once overheard someone commenting on Kenneth Branagh's adaptation of Henry V: "I liked it, but Shakespeare is so full of clichés."
 
@@ -80,7 +80,7 @@ In London, however, at least among publishers, the reaction was equally strong i
 
 At least, this was the rule in a world where the Parliament is antimonopoly, resistant to the protectionist pleas of publishers. In a world where the Parliament is more pliant, free culture would be less protected.
 
-## Notes
+# Notes
 
 [1] Jacob Tonson is typically remembered for his associations with prominent eighteenth-century literary figures, especially John Dryden, and for his handsome "definitive editions" of classic works. In addition to Romeo and Juliet, he published an astonishing array of works that still remain at the heart of the English canon, including collected works of Shakespeare, Ben Jonson, John Milton, and John Dryden. See Keith Walker, "Jacob Tonson, Bookseller," American Scholar 61:3 (1992): 424­31.
 
@@ -109,3 +109,7 @@ At least, this was the rule in a world where the Parliament is antimonopoly, res
 [13] Rose, 97.
 
 [14] Ibid.
+
+--------------------------------------------------------------------------------
+
+[Prev](./05-0-property.md) | [Table of Contents](./00-toc.md) | [Next](./05-2-ch07-recorders.md)

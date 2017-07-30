@@ -661,3 +661,7 @@ Free culture is increasingly the casualty in this war on piracy. In response to 
 [35] Siva Vaidhyanathan captures a similar point in his "four surrenders" of copyright law in the digital age. See Vaidhyanathan, 159­60.
 
 [36] It was the single most important contribution of the legal realist movement to demonstrate that all property rights are always crafted to balance public and private interests. See Thomas C. Grey, "The Disintegration of Property," in Nomos XXII: Property, J. Roland Pennock and John W. Chapman, eds. (New York: New York University Press, 1980).
+
+--------------------------------------------------------------------------------
+
+[Prev](./05-4-ch09-collectors.md) | [Table of Contents](./00-toc.md) | [Next](./06-0-ch11-puzzles-chimera.md)

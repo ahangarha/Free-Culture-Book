@@ -1,4 +1,4 @@
-## 9.1. US, NOW
+# 9.1\. US, NOW
 
 Common sense is with the copyright warriors because the debate so far has been framed at the extremes--as a grand either/or: either property or anarchy, either total control or artists won't be paid. If that really is the choice, then the warriors should win.
 
@@ -10,7 +10,7 @@ This initial character produced a reaction (opposite, but not quite equal) by co
 
 What's needed is a way to say something in the middle--neither "all rights reserved" nor "no rights reserved" but "some rights reserved"-- and thus a way to respect copyrights but enable creators to free content as they see fit. In other words, we need a way to restore a set of freedoms that we could just take for granted before.
 
-### 9.1.1. Rebuilding Freedoms Previously Presumed: Examples
+## 9.1.1\. Rebuilding Freedoms Previously Presumed: Examples
 
 If you step back from the battle I've been describing here, you will recognize this problem from other contexts. Think about privacy. Before the Internet, most of us didn't have to worry much about data about our lives that we broadcast to the world. If you walked into a bookstore and browsed through some of the works of Karl Marx, you didn't need to worry about explaining your browsing habits to your neighbors or boss. The "privacy" of your browsing habits was assured.
 
@@ -56,8 +56,7 @@ This shrinking freedom has led many to take affirmative steps to restore the fre
 
 This is one of many such efforts to restore a freedom taken for granted before, but now threatened by changing technology and markets. There's no doubt that this alternative competes with the traditional publishers and their efforts to make money from the exclusive distribution of content. But competition in our tradition is presumptively a good--especially when it helps spread knowledge and science.
 
-
-### 9.1.2. Rebuilding Free Culture: One Idea
+## 9.1.2\. Rebuilding Free Culture: One Idea
 
 The same strategy could be applied to culture, as a response to the increasing control effected through law and technology.
 
@@ -91,11 +90,12 @@ These are first steps to rebuilding a public domain. They are not mere arguments
 
 Creative Commons is just one example of voluntary efforts by individuals and creators to change the mix of rights that now govern the creative field. The project does not compete with copyright; it complements it. Its aim is not to defeat the rights of authors, but to make it easier for authors and creators to exercise their rights more flexibly and cheaply. That difference, we believe, will enable creativity to spread more easily.
 
+# Notes
 
-## Notes
+[1] See, for example, Marc Rotenberg, "Fair Information Practices and the Architecture of Privacy (What Larry Doesn't Get)," Stanford Technology Law Review 1 (2001): par. 6­18, available at link #72 (describing examples in which technology defines privacy policy). See also Jeffrey Rosen, The Naked Crowd: Reclaiming Security and Freedom in an Anxious Age (New York: Random House, 2004) (mapping tradeoffs between technology and privacy).
 
-[1]
-See, for example, Marc Rotenberg, "Fair Information Practices and the Architecture of Privacy (What Larry Doesn't Get)," Stanford Technology Law Review 1 (2001): par. 6­18, available at link #72 (describing examples in which technology defines privacy policy). See also Jeffrey Rosen, The Naked Crowd: Reclaiming Security and Freedom in an Anxious Age (New York: Random House, 2004) (mapping tradeoffs between technology and privacy).
+[2] Willful Infringement: A Report from the Front Lines of the Real Culture Wars (2003), produced by Jed Horovitz, directed by Greg Hittelman, a Fiat Lucre production, available at link #72.
 
-[2]
-Willful Infringement: A Report from the Front Lines of the Real Culture Wars (2003), produced by Jed Horovitz, directed by Greg Hittelman, a Fiat Lucre production, available at link #72.
+--------------------------------------------------------------------------------
+
+[Prev](./09-0-afterword.md) | [Table of Contents](./00-toc.md) | [Next](./09-2-them-soon.md)

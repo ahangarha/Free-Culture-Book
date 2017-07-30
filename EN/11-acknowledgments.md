@@ -1,4 +1,4 @@
-# Chapter 11. ACKNOWLEDGMENTS
+# Chapter 11\. ACKNOWLEDGMENTS
 
 This book is the product of a long and as yet unsuccessful struggle that began when I read of Eric Eldred's war to keep books free. Eldred's work helped launch a movement, the free culture movement, and it is to him that this book is dedicated.
 
@@ -11,3 +11,7 @@ These are the traditional sorts of help that academics regularly draw upon. But 
 Richard Stallman and Michael Carroll each read the whole book in draft, and each provided extremely helpful correction and advice. Michael helped me to see more clearly the significance of the regulation of derivitive works. And Richard corrected an embarrassingly large number of errors. While my work is in part inspired by Stallman's, he does not agree with me in important places throughout this book.
 
 Finally, and forever, I am thankful to Bettina, who has always insisted that there would be unending happiness away from these battles, and who has always been right. This slow learner is, as ever, grateful for her perpetual patience and love.
+
+--------------------------------------------------------------------------------
+
+[Prev](./10-notes.md) | [Table of Contents](./00-toc.md) | Next

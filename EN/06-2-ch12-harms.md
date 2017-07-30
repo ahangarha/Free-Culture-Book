@@ -267,3 +267,7 @@ When forty to sixty million Americans are considered "criminals" under the law, 
 [21] See "Revealed: How RIAA Tracks Downloaders: Music Industry Discloses Some Methods Used," CNN.com, available at link #47.
 
 [22] See Jeff Adler, "Cambridge: On Campus, Pirates Are Not Penitent," Boston Globe, 18 May 2003, City Weekly, 1; Frank Ahrens, "Four Students Sued over Music Sites; Industry Group Targets File Sharing at Colleges," Washington Post, 4 April 2003, E1; Elizabeth Armstrong, "Students 'Rip, Mix, Burn' at Their Own Risk," Christian Science Monitor, 2 September 2003, 20; Robert Becker and Angela Rozas, "Music Pirate Hunt Turns to Loyola; Two Students Names Are Handed Over; Lawsuit Possible," Chicago Tribune, 16 July 2003, 1C; Beth Cox, "RIAA Trains Antipiracy Guns on Universities," Internet News, 30 January 2003, available at link #48; Benny Evangelista, "Download Warning 101: Freshman Orientation This Fall to Include Record Industry Warnings Against File Sharing," San Francisco Chronicle, 11 August 2003, E11; "Raid, Letters Are Weapons at Universities," USA Today, 26 September 2000, 3D.
+
+--------------------------------------------------------------------------------
+
+[Prev](./06-0-ch11-puzzles-chimera.md) | [Table of Contents](./00-toc.md) | [Next](./07-0-balances.md)

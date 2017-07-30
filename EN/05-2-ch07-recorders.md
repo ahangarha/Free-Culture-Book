@@ -31,6 +31,7 @@ But when lawyers hear this story about Jon Else and Fox, their first thought is 
 So I asked Else why he didn't just rely upon "fair use." Here's his reply:
 
 > The Simpsons fiasco was for me a great lesson in the gulf between what lawyers find irrelevant in some abstract sense, and what is crushingly relevant in practice to those of us actually trying to make and broadcast documentaries. I never had any doubt that it was "clearly fair use" in an absolute legal sense. But I couldn't rely on the concept in any concrete way. Here's why:
+
 > 1. Before our films can be broadcast, the network requires that we buy Errors and Omissions insurance. The carriers require a detailed "visual cue sheet" listing the source and licensing status of each shot in the film. They take a dim view of "fair use," and a claim of "fair use" can grind the application process to a halt.
 > 2. I probably never should have asked Matt Groening in the first place. But I knew (at least from folklore) that Fox had a history of tracking down and stopping unlicensed Simpsons usage, just as George Lucas had a very high profile litigating Star Wars usage. So I decided to play by the book, thinking that we would be granted free or cheap license to four seconds of Simpsons. As a documentary producer working to exhaustion on a shoestring, the last thing I wanted was to risk legal trouble, even nuisance legal trouble, and even to defend a principle.
 > 3. I did, in fact, speak with one of your colleagues at Stanford Law School . . . who confirmed that it was fair use. He also confirmed that Fox would "depose and litigate you to within an inch of your life," regardless of the merits of my claim. He made clear that it would boil down to who had the bigger legal department and the deeper pockets, me or them.
@@ -43,3 +44,7 @@ This practice shows just how far the law has come from its eighteenth-century ro
 # Notes
 
 [1] For an excellent argument that such use is "fair use," but that lawyers don't permit recognition that it is "fair use," see Richard A. Posner with William F. Patry, "Fair Use and Statutory Reform in the Wake of Eldred " (draft on file with author), University of Chicago Law School, 5 August 2003.
+
+--------------------------------------------------------------------------------
+
+[Prev](./05-1-ch06-founders.md) | [Table of Contents](./00-toc.md) | [Next](./05-3-ch08-transformers.md)

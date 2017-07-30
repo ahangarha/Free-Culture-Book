@@ -141,3 +141,7 @@ Common sense must revolt. It must act to free culture. Soon, if this potential i
 [14] "BBC Plans to Open Up Its Archive to the Public," BBC press release, 24 August 2003, available at link #70.
 
 [15] "Creative Commons and Brazil," Creative Commons Weblog, 6 August 2003, available at link #71.
+
+--------------------------------------------------------------------------------
+
+[Prev](./07-2-ch14-eldred-ii.md) | [Table of Contents](./00-toc.md) | [Next](./09-0-afterword.md)

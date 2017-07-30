@@ -227,3 +227,7 @@ We should ask, "Why?" Show me why your regulation of culture is needed. Show me 
 [10] Lawrence Lessig, "Copyright's First Amendment" (Melville B. Nimmer Memorial Lecture), UCLA Law Review 48 (2001): 1057, 1069­70.
 
 [11] A good example is the work of Professor Stan Liebowitz. Liebowitz is to be commended for his careful review of data about infringement, leading him to question his own publicly stated position--twice. He initially predicted that downloading would substantially harm the industry. He then revised his view in light of the data, and he has since revised his view again. Compare Stan J. Liebowitz, Rethinking the Network Economy: The True Forces That Drive the Digital Marketplace (New York: Amacom, 2002), (reviewing his original view but expressing skepticism) with Stan J. Liebowitz, "Will MP3s Annihilate the Record Industry?" working paper, June 2003, available at link #86\. Liebowitz's careful analysis is extremely valuable in estimating the effect of file-sharing technology. In my view, however, he underestimates the costs of the legal system. See, for example, Rethinking, 174­76.
+
+--------------------------------------------------------------------------------
+
+[Prev](./09-1-us-now.md) | [Table of Contents](./00-toc.md) | [Next](./10-notes.md)

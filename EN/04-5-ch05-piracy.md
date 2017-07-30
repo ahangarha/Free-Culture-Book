@@ -206,3 +206,7 @@ This is especially true when a new technology enables a vastly superior mode of 
 [25] Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, (1984).
 
 [26] John Schwartz, "New Economy: The Attack on Peer-to-Peer Software Echoes Past Efforts," New York Times, 22 September 2003, C3.
+
+--------------------------------------------------------------------------------
+
+[Prev](./04-4-ch04-pirates.md) | [Table of Contents](./00-toc.md) | [Next](./05-0-property.md)
