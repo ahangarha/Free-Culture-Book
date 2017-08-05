@@ -29,4 +29,6 @@ Please provide the designs under free licences (we suggest Creative Commons lice
 
 If you know how to work with github, then you know how to submit your changes usuing pull request.
 
+You just need to consider using relevant branch for translation. If you are going to contribute to an existing translation, use its branch. Otherwise, make the branch and start your contribution. 
+
 If you don't know github, you can share your suggestions by opening an issue. Of course for this, you need to have an account on github. Accordingly, the suggestions will be reviewed and in needed, the action would be taken.
