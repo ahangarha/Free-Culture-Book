@@ -31,19 +31,21 @@
 
 > لیوان آبی در مقابل میکروفون در یانکرز پخش می‌شد؛ گویی که یک لیوان آب پاشیده شده باشد . . . . کاغذی مچاله و پاره می‌شد؛ صدایش مثل کاغذ بود نه ترق و تروق آتش در جنگل . . . . مارش سوزای ضبط شده و پیانو تک و گیتار در حال نواختن . . . . موسیقی با چنان حس زنده‌ی نادری پخش می‌شد که بعید از کسی پیش از این از یک رادیو شنیده باشد.[3]
 
-As our own common sense tells us, Armstrong had discovered a vastly superior radio technology. But at the time of his invention, Armstrong was working for RCA. RCA was the dominant player in the then dominant AM radio market. By 1935, there were a thousand radio stations across the United States, but the stations in large cities were all owned by a handful of networks.
+همان‌طور که عقل سلیم‌مان حکم می‌کند، آرمسترانگ فناوری رادیویی به مراتب برتری را کشف کرده‌بود. اما در زمان این نوآوری، برای RCA کار می‌کرد. RCA بر بازار رادیوی AM آن زمان تسلط داشت. تا سال ۱۹۳۵ یک هزار استگاه رایدویی در سراسر ایالات متحده وجود داشت اما ایستگاه‌ها در شهرهای بزرگ توسط در مالکیت برخی شبکه‌ها بود.
 
-RCA's president, David Sarnoff, a friend of Armstrong's, was eager that Armstrong discover a way to remove static from AM radio. So Sarnoff was quite excited when Armstrong told him he had a device that removed static from "radio." But when Armstrong demonstrated his invention, Sarnoff was not pleased.
+دیوید سارنوف، رییس RCA و از دوستان آرمستراگ به شدت علاقه‌مند بود که آرمسترانگ راهی برای حذف static از رادیو AM کشف کند. از این رو، زمانی که آرمسترانگ به او گفت که وسیله‌ای در اختیار دارد که static را از «رادیو» حذف کرده است، سارنوف به وجد آمد. اما وقی آرمستراگ اختراع‌اش را نمایش داد، سارتوف خوشنود نبود.
 
-> I thought Armstrong would invent some kind of a filter to remove static from our AM radio. I didn't think he'd start a revolution-- start up a whole damn new industry to compete with RCA.[4]
+> من فکر کردم که آرمسترانگ نوعی فیلتر برای حذف static از رادیی AM ما ابداع کرده است. نمی‌دانستم که او یک انقلاب را بنانهاده؛ انقلابی که یک صنعت لعنتی جدید را به رقابت با RCA به راه می‌اندازد.[4]
 
-Armstrong's invention threatened RCA's AM empire, so the company launched a campaign to smother FM radio. While FM may have been a superior technology, Sarnoff was a superior tactician. As one author described,
+نوآوری آرمسترانگ، امپراتوری RCA را در رادیو AM به مخاطره می‌انداخت. از این رو بود که شرکت اقدام به راه‌اندازی کارزاری برای مسکوت گذاشتن رادیو FM کرد. در حالی که FM یک فناوری برتر بود اما سارنوف مرد مبارزه بود. نویسنده‌ای این‌گونه توصیف کرد که:
 
-> The forces for FM, largely engineering, could not overcome the weight of strategy devised by the sales, patent, and legal offices to subdue this threat to corporate position. For FM, if allowed to develop unrestrained, posed . . . a complete reordering of radio power . . . and the eventual overthrow of the carefully restricted AM system on which RCA had grown to power.[5]
+> نیروهای عمدتا مهندسی حامی FM نتوانستند بر سنگینی استراتژی‌ای غلبه کنند که پشت‌اش به حراج‌ها، پتنت و نهادهای قانونی‌ای گرم بود که از موقعیت شرکت‌ها در برابر چنین تهدیدی محافظت می‌کرد. چرا که FM (اگر می‌توانست بدون محدودیت توسعه پیدا کند) می‌توانست رادیو را دگرگون کند و نهایتا به سقوط ساختاری منجر شود که RCA با ظرافت محدودش کرده بود تا برای خود قدرتی دست و پا کند.[5]
 
-RCA at first kept the technology in house, insisting that further tests were needed. When, after two years of testing, Armstrong grew impatient, RCA began to use its power with the government to stall FM radio's deployment generally. In 1936, RCA hired the former head of the FCC and assigned him the task of assuring that the FCC assign spectrum in a way that would castrate FM--principally by moving FM radio to a different band of spectrum. At first, these efforts failed. But when Armstrong and the nation were distracted by World War II, RCA's work began to be more successful. Soon after the war ended, the FCC announced a set of policies that would have one clear effect: FM radio would be crippled. As Lawrence Lessing described it,
+مقدمتا، RCA این فناوری را با اصرار بر این که نیازمند بررسی و آزمون‌های بیش‌تر است، پنهان نگاه داشت. زمانی که بعد از دو سال بررسی، صبر آرمسترانگ به سر آمد، RCA با استفاده از قدرتش در دولت، سعی در وقت‌کشی در روند پیاده‌سازی رادیو FM کرد. در ۱۹۳۶، RCA رییس پیشین FCC را استخدام کرد. وظیفه‌ی او، اطمینان حاصل کردن از آن بود که FCC، با انتقال رادیو FM به محدوده‌ی موجی دیگری، عملا طوری طیف موج را تخصیص دهد که FM آسیب ببیند. این تلاش‌ها در ابتدا با شکست مواجه شد. اما زمانی که جنگ جهانی دوم، حواس آرمسترانگ و ملت امریکا را پرت کرده بود، تلاش‌های RCA موفقیت‌های بیش‌تری به دست آورد. بلافاصله بعد از پایان جنگ جهانی، FCC مجموعه‌ای از خط‌مشی‌ها را اعلام کرد که می‌تواند یک اثر مشخص داشته باشد: زمین‌گیر شدن رادیو FM. لارنس لسیگ اینگونه توصیف می‌کند که:
 
-> The series of body blows that FM radio received right after the war, in a series of rulings manipulated through the FCC by the big radio interests, were almost incredible in their force and deviousness.[6]
+> ضربه‌هایی که رادیو FM درست بعد از جنگ و از طریق مجموعه خط‌مشی‌های RCA که زیر نفوذ اهالی ذی‌نفع رادیو تنظیم شده بودند دریافت کرد، از نظر قدرت و انحراف‌شان، باور نکردنی بودند.[6]
+
+
 
 To make room in the spectrum for RCA's latest gamble, television, FM radio users were to be moved to a totally new spectrum band. The power of FM radio stations was also cut, meaning FM could no longer be used to beam programs from one part of the country to another. (This change was strongly supported by AT&T, because the loss of FM relaying stations would mean radio stations would have to buy wired links from AT&T.) The spread of FM radio was thus choked, at least temporarily.
 
