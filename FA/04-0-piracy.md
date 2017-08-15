@@ -1,12 +1,16 @@
-# Chapter 4\. "PIRACY"
+<div dir="rtl">
 
-Since the inception of the law regulating creative property, there has been a war against "piracy." The precise contours of this concept, "piracy," are hard to sketch, but the animating injustice is easy to capture. As Lord Mansfield wrote in a case that extended the reach of English copyright law to include sheet music,
+# فصل چهار: «سرقت» (piracy)
 
-> A person may use the copy by playing it, but he has no right to rob the author of the profit, by multiplying copies and disposing of them for his own use.[1]
+از زمانی که قانون شروع به تنظیم و کنترل مالکیت آفرینشی کرده است، همواره جنگی بر علیه «سرقت» در جریان بوده است. ترسیم شکل دقیق این دغدغه، یعنی «سرقت» دشوار است اما نمایش بی‌عدالتی‌اش به سادگی قابل ضبط است. لرد هنسفیلد در ارتباط با موردی که در آن، قانون حق نشر انگلیس به نت‌های موسیقی تسری داده شده بود نوشته است:
 
-Today we are in the middle of another "war" against "piracy." The Internet has provoked this war. The Internet makes possible the efficient spread of content. Peer-to-peer (p2p) file sharing is among the most efficient of the efficient technologies the Internet enables. Using distributed intelligence, p2p systems facilitate the easy spread of content in a way unimagined a generation ago.
+> یک شخص می‌تواند با نواختن یک قطعه، آن را تکثیر کند اما او حق ندارد با تکثیر و نگهداری آن‌ها برای خودش،‌ سود صاحب اثر را بدزدد.[1]
 
-This efficiency does not respect the traditional lines of copyright. The network doesn't discriminate between the sharing of copyrighted and uncopyrighted content. Thus has there been a vast amount of sharing of copyrighted content. That sharing in turn has excited the war, as copyright owners fear the sharing will "rob the author of the profit."
+امروز ما در میانه‌ی «جنگ» دیگری بر ضد «سرقت» هستیم. اینترنت آتش این جنگ را افروخته است. اینترنت، گسترش کارای محتوا را ممکن می‌سازد. انتقال فایل همتا (Peer-to-peer یا p2p) یکی از کاراترین فناوری‌های کارایی است که اینترنت فراهم آورده است. سامانه‌های p2p با استفاده از هوش توزیع‌شده، نشر آسان محتوا را آن‌چنان تسهیل می‌کنند که یک نسل پیش قابل تصور نبود.
+
+این کارایی، خطوط حق‌نشر سنتی را محترم نمی‌شمرد. شبکه، میان به اشتراک‌گذاری محتوای دارای حق‌نشر و محتوای فاقد آن تبعیضی نمی‌گذارد. در نتیجه، حجم بالایی از محتوای مشمول حق‌نشر، به اشتراک گذاشته می‌شوند. این امر، بر آتش جنگ می‌افزاید؛ چرا که دارندگان حق‌نشر نگران آن هستند که «سود مؤلف با تاراج برود».
+
+
 
 The warriors have turned to the courts, to the legislatures, and increasingly to technology to defend their "property" against this "piracy." A generation of Americans, the warriors warn, is being raised to believe that "property" should be "free." Forget tattoos, never mind body piercing--our kids are becoming thieves!
 
