@@ -10,29 +10,27 @@
 
 این کارایی، خطوط حق‌نشر سنتی را محترم نمی‌شمرد. شبکه، میان به اشتراک‌گذاری محتوای دارای حق‌نشر و محتوای فاقد آن تبعیضی نمی‌گذارد. در نتیجه، حجم بالایی از محتوای مشمول حق‌نشر، به اشتراک گذاشته می‌شوند. این امر، بر آتش جنگ می‌افزاید؛ چرا که دارندگان حق‌نشر نگران آن هستند که «سود مؤلف با تاراج برود».
 
+رزم‌آوران این میدان برای دفاع از «مالکیت» خود و بر ضد «سارقان» به دادگاه‌ها، نهادهای قانون‌گذاری و بیش از پیش به فناوری روی آورده‌اند. این رزم‌آوران هشدار می‌دهند که یک نسل از امریکایی‌ها برای این اعتقاد بزرگ می‌شوند که «مالکیت» باید «آزاد» باشد؛ بی خیال تتو، کودکان ما در حال دزد شدن هستند!
 
+تردیدی در نادرستی «سرقت» و اینکه سارقان باید مورد مجازات قرار بگیرند نیست. اما قبل از آنکه جلادان را فرابخوانیم لازم اسا که این مفهوم «سرقت» را در یک بستری بگذاریم. در همین حال که این مفهوم به طور فزاینده‌ای مورد استفاده قرار می‌گیرد، در دل‌اش انگاره‌ای فوق‌العاده قرار دارد که نادرست است. 
 
-The warriors have turned to the courts, to the legislatures, and increasingly to technology to defend their "property" against this "piracy." A generation of Americans, the warriors warn, is being raised to believe that "property" should be "free." Forget tattoos, never mind body piercing--our kids are becoming thieves!
+این انگاره، چیزی مانند این است:
 
-There's no doubt that "piracy" is wrong, and that pirates should be punished. But before we summon the executioners, we should put this notion of "piracy" in some context. For as the concept is increasingly used, at its core is an extraordinary idea that is almost certainly wrong.
+> اثر خلاق دارای ارزش است؛ هرگاه که من از آن‌ها استفاده کنم یا بر مبنای اثر خلاقانه‌ی دیگران دست به آفرینشی بزنم، در حقیقت بخشی از ارزش ان‌ها را دریافت می‌کنم و بنابراین باید اجازه‌ی آن‌ها را داشته باشم. دریافت بدون اجازه‌ی ارزش از شخصی دیگر، نادرست است. این، نوعی سرقت است.
 
-The idea goes something like this:
+این نگاه، درست به عمق بحث جاری می‌رود. این نگاه، آن چیزی است که استاد حقوق دانشگاه نیویورک، راشل دریفاس به عنوان نگرش مالکیت آفرینشی «اگر ارزش دارد، مشمول حق است» مورد نقد قرار می‌دهد؛[2] یعنی اگر ارزش وجود دارد باید کسی باشد که حقی بر آن ارزش داشته باشد. این نگاه به آن منتهی می‌شود که مثلا سازمان حقوق آهنگ‌سازان، علیه گروه «دختران پیش‌آهنگ» (Girl Scouts) برای عدم پرداخت حق نشر آهنگ‌هایی که در اردوهاشان خوانده بودند اعلام جرم کند.[3] «ارزش»ی وجود داشت بنابراین حقی نیز باید وجود داشته باشد؛ حتی علیه «دختران پیش‌آهنگ».
 
-> Creative work has value; whenever I use, or take, or build upon the creative work of others, I am taking from them something of value. Whenever I take something of value from someone else, I should have their permission. The taking of something of value from someone else without permission is wrong. It is a form of piracy.
+این انگاره همانا یک فهم ممکن است از این که مالکیت آفرینشی چگونه کار می‌کند. به همین شکل می‌تواند طرحی ممکن باشد برای نظامی قانونی در حمایت از مالکیت آفرینشی. اما نگرش مالکیت آفرینشی «اگر ارزش دارد، مشمول حق است» هرگز نگرش امریکا به مالکیت آفرینشی نبوده است و هرگز مورد حمایت قانون نبوده است.
 
-This view runs deep within the current debates. It is what NYU law professor Rochelle Dreyfuss criticizes as the "if value, then right" theory of creative property[2] --if there is value, then someone must have a right to that value. It is the perspective that led a composers' rights organization, ASCAP, to sue the Girl Scouts for failing to pay for the songs that girls sang around Girl Scout campfires.[3] There was "value" (the songs) so there must have been a "right"--even against the Girl Scouts.
+در عوض در سنت ما مالکیت معنوی، یک ابزار است که در عین حالی که در خدمت ارزش آفرینندگی باقی می‌ماند، بستری برای جامعه‌ای کاملا خلاق فراهم می‌آورد. بحث جاری، این موضوع را برعکس کرده است. آن‌چنان دغدغه‌ی حفاظت از ابزار ما را فراگرفته که اصل ارزش را از یاد برده‌ایم.
 
-This idea is certainly a possible understanding of how creative property should work. It might well be a possible design for a system of law protecting creative property. But the "if value, then right" theory of creative property has never been America's theory of creative property. It has never taken hold within our law.
+سرچشمه این اغتشاش در آن جاست که قانون دیگر اهتمامی به کشیدن خط تمایز میان دو چیز ندارد: تمایز بین بازنشر اثر شخص دیگر در یک سو و دگرگون کردن یا تولید بر اساس اثر دیگران در سوی دیگر. قانون حق نشر، از بدو تولد، صرفا دغدغه نشر را دشته است؛ این قانون اما امروز هر دو را تنظیم می‌کند.
 
-Instead, in our tradition, intellectual property is an instrument. It sets the groundwork for a richly creative society but remains subservient to the value of creativity. The current debate has this turned around. We have become so concerned with protecting the instrument that we are losing sight of the value.
+پیش از فناوری‌های اینترنت، این ملقمه و آمیختگی تا این حد اهمیت نداشت. فناوری‌های نشر، گران بودند؛ در نتیجه اکثریت غالب نشر، تجاری بود. نهادهای تجاری می‌توانستند بار قانون و حتی بار پیچیدگی عجیبی که قانون حق نشر به آن تبدیل شده را بر دوش بکشند. تنها یکی دیگر از هزینه‌های انجام کسب و کار بود.
 
-The source of this confusion is a distinction that the law no longer takes care to draw--the distinction between republishing someone's work on the one hand and building upon or transforming that work on the other. Copyright law at its birth had only publishing as its concern; copyright law today regulates both.
+اما با تولد اینترنت، این مرز طبیعی در دسترس قانون، از بین رفته است. قانون نه فقط آفرینش یک آفریننده‌ی تجاری بلکه آفرینش همگان را کنترل می‌کند. Although that expansion would not matter much if copyright law regulated only "copying," when the law regulates as broadly and obscurely as it does, the extension matters a lot. اکنون بار این قانون به دلیل تاثیر آن بر آفرینش‌های غیرتجاری و به طور فزاینده‌ای به دلیل تاثیر آن بر آفرینش‌های تجاری به گونه‌ای که از صنایع خاصی بر علیه رقابت دست به حمایت می‌زند، بیش از نفع اصلی آن است. درست در زمانی که فناوری دیجیتال می‌توانست دامنه‌ی آفرینش‌های تجاری و غیر تجاری را با رشدی فوق‌العاده همراه کند، قانون با قوانین مبهم و پیچیده و با اعمال مجازات‌های وقیهانه، برای خلاقیت مشکل ایجاد می‌کند. ما شاید آنگونه که ریچارد فلوریدا نوشته است، در حال نظاره کردن «ظهور طبقه خلاق» هستیم. ما متاسفانه در حال مشاهده ظهور غیرعادی مقررات این کلاس خلاق هم هستیم.
 
-Before the technologies of the Internet, this conflation didn't matter all that much. The technologies of publishing were expensive; that meant the vast majority of publishing was commercial. Commercial entities could bear the burden of the law--even the burden of the Byzantine complexity that copyright law has become. It was just one more expense of doing business.
-
-But with the birth of the Internet, this natural limit to the reach of the law has disappeared. The law controls not just the creativity of commercial creators but effectively that of anyone. Although that expansion would not matter much if copyright law regulated only "copying," when the law regulates as broadly and obscurely as it does, the extension matters a lot. The burden of this law now vastly outweighs any original benefit--certainly as it affects noncommercial creativity, and increasingly as it affects commercial creativity as well. Thus, as we'll see more clearly in the chapters below, the law's role is less and less to support creativity, and more and more to protect certain industries against competition. Just at the time digital technology could unleash an extraordinary range of commercial and noncommercial creativity, the law burdens this creativity with insanely complex and vague rules and with the threat of obscenely severe penalties. We may be seeing, as Richard Florida writes, the "Rise of the Creative Class."[4] Unfortunately, we are also seeing an extraordinary rise of regulation of this creative class.
-
-These burdens make no sense in our tradition. We should begin by understanding that tradition a bit more and by placing in their proper context the current battles about behavior labeled "piracy."
+این مشکلات، در رسم و سنت ما معنایی ندارند. بایستی شروع به درک بیش‌تر سنت‌مان کنیم و این نبردهای جاری درباره آن چیزی که برچسب «سرقت» خورده است را در زمینه‌ی مناسب قرار دهیم.
 
 ## Notes
 
